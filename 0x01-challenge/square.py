@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+""" Print squate area and perimeter """
 
 
 class square():
